@@ -1,0 +1,36 @@
+2023-06-24 00:49:16 *NORMAL*     Started on Windows 10.0.0.22621 x64. Driver status: 0xC0000225
+2023-06-24 00:49:56 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 6620, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-06-24 00:49:56 *CRITICAL*   Injecting image 'C:\Users\Ridho-PC\Downloads\Compressed\drive-download-20230623T173430Z-001\YimMenu 220623\YimMenu.dll'
+
+2023-06-24 15:59:40 *NORMAL*     Started on Windows 10.0.0.22621 x64. Driver status: 0xC0000225
+2023-06-24 15:59:40 *ERROR*      File "C:\Users\Ridho-PC\Downloads\Compressed\drive-download-20230623T173430Z-001\YimMenu 220623\YimMenu.dll" is not a valid PE image
+2023-06-24 15:59:58 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 11464, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-06-24 15:59:58 *CRITICAL*   Injecting image 'D:\Coboy\gta\drive-download-20230623T173430Z-001\YimMenu 220623\YimMenu.dll'
+2023-06-24 19:42:19 *NORMAL*     Started on Windows 10.0.0.22621 x64. Driver status: 0xC0000225
+2023-06-24 19:42:22 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 8336, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-06-24 19:42:22 *CRITICAL*   Injecting image 'D:\Coboy\gta\drive-download-20230623T173430Z-001\YimMenu 220623\YimMenu.dll'
+2023-06-24 20:51:45 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 8336, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-06-24 20:51:45 *ERROR*      Can not attach to the process.
+An attempt was made to access an exiting process.
+
+2023-06-24 20:51:48 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 8336, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-06-24 20:51:48 *ERROR*      Can not attach to the process.
+An attempt was made to access an exiting process.
+
+
+2023-06-24 20:51:56 *NORMAL*     Started on Windows 10.0.0.22621 x64. Driver status: 0xC0000225
+2023-06-24 20:51:57 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 1752, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-06-24 20:51:57 *CRITICAL*   Injecting image 'D:\Coboy\gta\drive-download-20230623T173430Z-001\YimMenu 220623\YimMenu.dll'
+
+2023-06-24 21:39:43 *NORMAL*     Started on Windows 10.0.0.22621 x64. Driver status: 0xC0000225
+2023-06-24 21:39:45 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 772, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-06-24 21:39:45 *CRITICAL*   Injecting image 'D:\Coboy\gta\drive-download-20230623T173430Z-001\YimMenu 220623\YimMenu.dll'
+
+2023-06-24 22:29:00 *NORMAL*     Started on Windows 10.0.0.22621 x64. Driver status: 0xC0000225
+2023-06-24 22:29:02 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 4452, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-06-24 22:29:02 *CRITICAL*   Injecting image 'D:\Coboy\gta\drive-download-20230623T173430Z-001\YimMenu 220623\YimMenu.dll'
+
+2023-06-24 23:44:57 *NORMAL*     Started on Windows 10.0.0.22621 x64. Driver status: 0xC0000225
+2023-06-24 23:44:59 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 15728, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-06-24 23:44:59 *CRITICAL*   Injecting image 'D:\Coboy\gta\drive-download-20230623T173430Z-001\YimMenu 220623\YimMenu.dll'
+
